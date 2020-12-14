@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "959325152543",
+    "project_id": "jb-stripe",
+    "storage_bucket": "jb-stripe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959325152543:android:7ff1f151c574f3d8567c2a",
+        "android_client_info": {
+          "package_name": "com.lionuncle.stripe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959325152543-uin98m1ds1c2sgq49jka6h16gjkkdjn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lionuncle.stripe",
+            "certificate_hash": "1d4c35057290e85c8826903de0e68609affbe5e0"
+          }
+        },
+        {
+          "client_id": "959325152543-b1i2fh8on7euvn4kqa2nfn7b76nsq65h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5DkVV92O4axF_NY40OMig74W4s7IdgHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959325152543-b1i2fh8on7euvn4kqa2nfn7b76nsq65h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
